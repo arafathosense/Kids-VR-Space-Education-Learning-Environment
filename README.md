@@ -12,6 +12,8 @@ Another important part is the **multi-sensory experience**. The project uses 3D 
 
 Overall, this project makes space education simple, fun, and interactive. It helps children enjoy learning and become more curious about science and the universe. 🌌
 
+## Demo Video
+[View Demo Video](https://youtu.be/5rqC8t2Kq2U)
 
 ### Design
 
@@ -47,10 +49,7 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 2. Open the project in Unity.
 3. Build and run the project on a compatible XR device (Oculus) or use the XR Device Simulator with the specified key bindings.
 
-## 🎮 Watch Demo
-
-[![Watch Demo](https://raw.githubusercontent.com/arafathosense/Kids-VR-Space-Education-Learning-Environment/main/arafat.png)](https://youtu.be/5rqC8t2Kq2U)
-
+## Demo Video
 ## Novelty
 
 1. **Immersive Education:** The project offers an immersive VR space learning environment for kids, utilizing XR controllers, Oculus-compliant HMD controllers, and realistic physics for an engaging educational experience.
