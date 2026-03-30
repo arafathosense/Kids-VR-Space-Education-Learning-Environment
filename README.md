@@ -60,7 +60,6 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 
 4. **Multi-Sensory Experience:** Setting itself apart, the project incorporates freely available 3D assets and sounds, coupled with scripts for managing audio. This multi-sensory approach ensures a comprehensive and captivating educational experience for young users.
 
-
 ## 👤 Author
 
 **HOSEN ARAFAT**  
