@@ -1,9 +1,17 @@
-# VR Space Education
+# 🚀 Kids-For-VR-Space-Education-Learning
 
-## Project Overview
+This project helps kids learn about space in a fun and exciting way using **Virtual Reality (VR)**. Instead of only reading books or watching videos, children can enter a virtual space world and explore planets like they are really there.
 
-### Problem Statement
-Introducing space education to kids serves as a gateway to fostering curiosity and scientific interest. To make learning about planets a thrilling adventure, this project utilizes virtual reality, interactive apps, and hands-on activities to provide immersive experiences for children. Additionally, testing a student’s understanding of the planets is a crucial aspect addressed through VR.
+The main idea of this project is to make learning more interesting and easier to understand. Many kids find space topics hard or boring, but this system turns learning into an adventure. With a VR headset and controllers, students can move around, look at planets closely, and interact with them.
+
+One of the best features is **interactive planet exploration**. Kids can walk in space, touch planets, rotate them, and see their size and details. This helps them understand better because they learn by doing, not just by reading.
+
+The project also includes **fun quizzes inside the VR world**. After exploring, students can answer questions about the planets. This helps check what they learned and makes learning feel like a game.
+
+Another important part is the **multi-sensory experience**. The project uses 3D models, sounds, and effects to make everything feel real and exciting. This keeps kids interested and helps them remember things better.
+
+Overall, this project makes space education simple, fun, and interactive. It helps children enjoy learning and become more curious about science and the universe. 🌌
+
 
 ### Design
 
@@ -27,7 +35,7 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 - `Planet`: Holds information about a planet, including its name, description, and associated audio.
 
 ### Tools Used
-- Unity / C# 2022.3.12 (Latest Long-Term Support Version)
+- Unity / C# (Latest Long-Term Support Version)
 - Unity XR Interaction Toolkit and XR Device Simulator
 - Unity Shader Graph and Timeline
 - Blender
@@ -41,7 +49,7 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 
 ## Demo Video
 
-[View Demo Video](https://drive.google.com/file/d/1n2rL6sfawbC5OIYs-ZjHUJ0650v1IZPZ/view)
+[View Demo Video](https://youtu.be/5rqC8t2Kq2U)
 
 ## Novelty
 
@@ -53,8 +61,13 @@ The core logic of the game is encapsulated in various C# scripts handling differ
 
 4. **Multi-Sensory Experience:** Setting itself apart, the project incorporates freely available 3D assets and sounds, coupled with scripts for managing audio. This multi-sensory approach ensures a comprehensive and captivating educational experience for young users.
 
-## GROUP - 13
-**Team Members:**
-- Aadarsh Anantha Ramakrishnan (106121001)
-- Nitish N (106121087)
-- S Selvanayagam (106121133)
+
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
